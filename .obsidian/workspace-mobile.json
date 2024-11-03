@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4096c0c274510707",
+        "id": "a3af50bc4e5ed867",
         "type": "tabs",
         "children": [
           {
-            "id": "332298a43cdc88d7",
+            "id": "910f402d42c8f23b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meu git.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Meu git"
-            }
-          },
-          {
-            "id": "1fe20fc26ac01200",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Teste.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Teste"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,11 +139,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1fe20fc26ac01200",
+  "active": "910f402d42c8f23b",
   "lastOpenFiles": [
+    "Teste.md",
     "Teste remoto",
     "Meu git.md",
-    "Teste.md",
     "Jardim digital.md",
     "Jecogeo-jardim-digital",
     "Untitled.canvas",
