@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Bem vindo a Jecosfera
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Essa é a página inicial recém instalada.
+Ver a [Documentação](https://quartz.jzhao.xyz) para outros detalhes.

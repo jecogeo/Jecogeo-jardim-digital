@@ -1,1 +1,0 @@
-Aqui eu testo se meu [[Jardim digital]] pode ser sincronizado com git no celular. A ideia é editar no obsidian e que isso seja atualizado no repositório git para ser sincronizado.
