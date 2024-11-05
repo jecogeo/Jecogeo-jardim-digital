@@ -30,7 +30,7 @@ export default {
       darkMode: "Tema escuro",
     },
     explorer: {
-      title: "Explorador",
+      title: "Jecosfera",
     },
     footer: {
       createdWith: "Criado com",
