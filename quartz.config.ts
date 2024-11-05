@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: ".𖥔 ݁ 🪐˖🛸",
+    pageTitle: "Jecosfera   .𖥔 ݁ 🪐˖🛸",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -40,6 +40,7 @@ const config: QuartzConfig = {
           textHighlight: "#fff23688",
         },
         darkMode: {
+          // original
           light: "#161618",
           lightgray: "#393639",
           gray: "#646464",
@@ -49,6 +50,19 @@ const config: QuartzConfig = {
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#b3aa0288",
+          
+          // esquema nord
+          /*
+          light: "#2E3440", // Fundo escuro (Nord0) 
+          lightgray: "#3B4252", // Bordas (Nord1) 
+          gray: "#88C0D0", // Links de grafo e bordas mais pesadas (Nord8) 
+          darkgray: "#D8DEE9", // Texto do corpo (Nord4) 
+          dark: "#ECEFF4", // Texto do cabeçalho e ícones (Nord6) 
+          secondary: "#81A1C1", // Links (Nord9) 
+          tertiary: "#8FBCBB", // Estados de hover e nós visitados do grafo (Nord7) 
+          highlight: "#EBCB8B", // Destaque de links internos, texto destacado e linhas de código (Nord13) 
+          textHighlight: "#4C566A" // Fundo do texto destacado (Nord12)
+          */
         },
       },
     },
