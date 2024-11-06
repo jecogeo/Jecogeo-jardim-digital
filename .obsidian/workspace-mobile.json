@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "content/Ensaios/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/index.md",
+            "file": "content/Ensaios/index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -147,9 +147,12 @@
   },
   "active": "55f5c7f63ecfb6cd",
   "lastOpenFiles": [
+    "content/Aprendizados/Index.md",
+    "content/Ensaios/index.md",
+    "content/Documentações/index.md",
+    "content/index.md",
     "content/Aprendizados/Zettelkasten.md",
     "content/Aprendizados/Jardins Digitais.md",
-    "content/index.md",
     "content/Sobre mim.md",
     "content/Documentações",
     "content/Ensaios",

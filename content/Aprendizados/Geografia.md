@@ -1,1 +1,0 @@
-Testando a parada #conhecimento que é uma tag sei lá pra quê. Bom pra buscar. Mas geografia é um tipo de [[Conhecimento]].
