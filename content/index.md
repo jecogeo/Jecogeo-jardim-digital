@@ -3,6 +3,7 @@ title: Bem vindo a Jecosfera
 ---
 👽 Olá mundo. 
 
+
 Enfim, meu canto pessoal na internet. Não foi a primeira tentativa, mas acho que será um projeto de longo prazo. Meu site antigo era um blog feito em [Ghost]([https://ghost.org](https://ghost.org/)) que era uma ideia interessante, mas não funcionou para mim. É eu acho que foi um problema de origem (ou de conceito).
 
 Um blog, na minha opinião, ainda é um forma de Fast Web, onde a internet é projetada para
