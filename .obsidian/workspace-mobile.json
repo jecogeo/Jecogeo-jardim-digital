@@ -11,10 +11,14 @@
             "id": "55f5c7f63ecfb6cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -143,6 +147,8 @@
   "lastOpenFiles": [
     "content/Leia-me.md",
     "content/index.md",
+    "templates/chapter.md",
+    "content/Jecosfera/Geografia.md",
     "Teste remoto.md",
     "Teste.md",
     "Teste remoto",
@@ -151,7 +157,6 @@
     "Jecogeo-jardim-digital",
     "Untitled.canvas",
     "content/Jecosfera/Conhecimento.md",
-    "content/Jecosfera/Geografia.md",
     "Untitled"
   ]
 }
