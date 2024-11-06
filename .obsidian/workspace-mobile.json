@@ -95,6 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "content/index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -140,23 +141,28 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "55f5c7f63ecfb6cd",
   "lastOpenFiles": [
-    "content/Leia-me.md",
+    "content/Aprendizados/Zettelkasten.md",
+    "content/Aprendizados/Jardins Digitais.md",
     "content/index.md",
+    "content/Sobre mim.md",
+    "content/Documentações",
+    "content/Ensaios",
     "templates/chapter.md",
-    "content/Jecosfera/Geografia.md",
+    "content/Aprendizados/Geografia.md",
     "Teste remoto.md",
     "Teste.md",
     "Teste remoto",
     "Meu git.md",
-    "content/Jecosfera/Jardim digital.md",
+    "content/Aprendizados/Jardim digital.md",
     "Jecogeo-jardim-digital",
     "Untitled.canvas",
-    "content/Jecosfera/Conhecimento.md",
+    "content/Aprendizados/Conhecimento.md",
     "Untitled"
   ]
 }

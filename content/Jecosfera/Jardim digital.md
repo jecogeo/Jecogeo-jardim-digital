@@ -1,1 +1,0 @@
-É uma forma de gerir [[Conhecimento]], é escrever para si mesmo enquanto aprende.
