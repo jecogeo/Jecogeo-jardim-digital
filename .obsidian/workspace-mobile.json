@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Sobre mim.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sobre mim"
+              "title": "index"
             }
           }
         ]
@@ -48,7 +48,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:#planta",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "content/Ensaios/index.md",
+            "file": "content/index.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -147,13 +147,16 @@
   },
   "active": "7772a78c3500de22",
   "lastOpenFiles": [
-    "content/index.md",
-    "content/Ensaios/index.md",
-    "content/Aprendizados/Index.md",
     "content/Documentações/index.md",
-    "content/Aprendizados/Zettelkasten.md",
+    "content/Ensaios/index.md",
+    "content/Aprendizados/index.md",
+    "content/index.md",
+    "().md",
     "content/Aprendizados/Jardins Digitais.md",
+    "2024-11-09.md",
     "content/Sobre mim.md",
+    "content/Aprendizados/Index.md",
+    "content/Aprendizados/Zettelkasten.md",
     "content/Documentações",
     "content/Ensaios",
     "templates/chapter.md",
