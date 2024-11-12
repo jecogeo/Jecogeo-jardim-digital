@@ -3,6 +3,7 @@ title: Bem vindo a Jecosfera
 tags:
   - sempreverde
 draft: false
+date: 2024-10-31
 ---
 👽 Olá mundo. Jeco aqui falando para o eu do futuro e para quem mais copie essa transmissão. Este é meu jardim digital, onde planto e cultivo ideias. Algumas sérias, outras nem tanto.
 
