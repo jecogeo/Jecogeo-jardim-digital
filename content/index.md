@@ -45,4 +45,4 @@ Pólen é uma nota, um texto, livro, impressão… algo que pode ter influência
 
 # Para onde vai essa parada toda?
 
-Notas sobre tudo isso geralmente vão para [[content/Aprendizados/index|Aprendizados]]. É lá que a maioria das coisas vive. Eventualmente, se me sentir bravo suficiente, posso fazer um [[content/Ensaios/index|Ensaio]] sobre o tema. Faço isso para treinar a escrita e também para sintetizar um amontoado de conhecimento acumulado. Alguns conjuntos de notas, ideias e informações podem virar uma ou [[content/Documentações/index|Documentação]] para sempre consultar quando preciso.
+Notas sobre tudo isso geralmente vão para [[Aprendizados/index|Aprendizados]]. É lá que a maioria das coisas vive. Eventualmente, se me sentir bravo suficiente, posso fazer um [[Ensaios/index|Ensaio]] sobre o tema. Faço isso para treinar a escrita e também para sintetizar um amontoado de conhecimento acumulado. Alguns conjuntos de notas, ideias e informações podem virar uma ou [[Documentações/index|Documentação]] para sempre consultar quando preciso.
