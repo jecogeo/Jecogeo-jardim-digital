@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
+title: Jardins Digitais
 tags:
   - sempreverde
 draft: false
