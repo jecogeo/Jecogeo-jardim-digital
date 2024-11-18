@@ -3,7 +3,7 @@ title: "Sonho com jogo de tabuleiro: manejo comunitário de recursos naturais na
 draft: false
 tags:
   - semente
-date: 2024-11-11
+date: 2024-11-17
 ---
 # O sonho
 

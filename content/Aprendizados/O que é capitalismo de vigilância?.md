@@ -3,7 +3,7 @@ title: O que é capitalismo de vigilância?
 draft: false
 tags:
   - polen
-date: 2024-11-11
+date: 2024-11-16
 ---
 No livro *A Era do Capitalismo de Vigilância: a luta por um futuro humano na nova fronteira do poder*, Shoshana Zuboff começa, antes mesmo de começar de fato o livro, com algumas definições sobre o que é capitalismo de vigilância.
 
