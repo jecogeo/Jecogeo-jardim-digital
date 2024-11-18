@@ -44,7 +44,6 @@ export default (() => {
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}
-      	<!-- Fathom - simple website analytics - https://github.com/usefathom/fathom -->
 	<script>
 	(function(f, a, t, h, o, m){
 		a[h]=a[h]||function(){
@@ -58,7 +57,6 @@ export default (() => {
 	fathom('set', 'siteId', 'QCMTI');
 	fathom('trackPageview');
 	</script>
-	<!-- / Fathom -->
 	</head>
     )
   }
