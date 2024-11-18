@@ -44,7 +44,22 @@ export default (() => {
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}
-      </head>
+      	<!-- Fathom - simple website analytics - https://github.com/usefathom/fathom -->
+	<script>
+	(function(f, a, t, h, o, m){
+		a[h]=a[h]||function(){
+			(a[h].q=a[h].q||[]).push(arguments)
+		};
+		o=f.createElement('script'),
+		m=f.getElementsByTagName('script')[0];
+		o.async=1; o.src=t; o.id='fathom-script';
+		m.parentNode.insertBefore(o,m)
+	})(document, window, '//fathom.jecogeo.eu/tracker.js', 'fathom');
+	fathom('set', 'siteId', 'QCMTI');
+	fathom('trackPageview');
+	</script>
+	<!-- / Fathom -->
+	</head>
     )
   }
 
