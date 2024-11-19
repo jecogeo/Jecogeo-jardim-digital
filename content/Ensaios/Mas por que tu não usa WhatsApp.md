@@ -1,12 +1,12 @@
 ---
-title: Mas por que tu não usa [google, Gmail, WhatsApp, Instagram, etc] ?
+title: Mas por que tu não usa WhatsApp?
 draft: false
 tags:
   - sempreverde
 date: 2024-11-16
 ---
 
-Eu curto quando me perguntam. Mas de certa forma odeio quando me perguntam.  O fato de eu não ter e não usar WhatsApp sempre causa uma estranheza. Instagram, Facebook, Gmail, X/Twitter, nada. As pessoas quase sempre dizem “tá certo. Eu só uso porque preciso.”. Ou algo no sentido de *se eu pudesse não usaria*. O que é interessante de explorar mas fica pra outro dia.
+Eu curto quando me perguntam. Mas de certa forma odeio quando me perguntam.  O fato de eu não ter e não usar WhatsApp sempre causa uma estranheza. Instagram, Facebook, Gmail, X/Twitter, nada disso. As pessoas quase sempre dizem “tá certo. Eu só uso porque preciso.”. Ou algo no sentido de *se eu pudesse não usaria*. O que é interessante de explorar mas fica pra outro dia.
 
 Agora o certeiro mesmo é a pergunta: mas por que? Dependendo do contexto, do ambiente ou da pessoa, eu costumo dar diferentes respostas.
 # A resposta curta e superficial é
@@ -43,7 +43,7 @@ Geralmente para mim mesmo, e agora aqui publicamente, essas respostas tem um sen
 
 ## O Capitalismo de Vigilância
 
-O [[O que é capitalismo de vigilância?|capitalismo de vigilância]] é um fato. Podem não concordar com o nome ou com certos meandros de como ele é descrito. Mas acho que poucos discordariam de que nessa nova fase de acumulação de capital nossa sociedade está baseada na prática de mercantilizar a experiência humana e transformar nossos dados pessoais em produtos lucrativos. 
+O [[O que é capitalismo de vigilância|capitalismo de vigilância]] é um fato. Podem não concordar com o nome ou com certos meandros de como ele é descrito. Mas acho que poucos discordariam de que nessa nova fase de acumulação de capital nossa sociedade está baseada na prática de mercantilizar a experiência humana e transformar nossos dados pessoais em produtos lucrativos. 
 
 As implicações éticas, sociais e políticas dessa nova forma de acumulação de capital são inúmeras. Não dá nem para arranhar a superfície desse assunto em um texto curto. 
 
