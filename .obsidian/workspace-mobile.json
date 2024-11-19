@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/Nota.md",
-                "mode": "source",
+                "file": "content/index.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nota"
+              "title": "index"
             }
           }
         ]
@@ -80,6 +80,16 @@
           "state": {},
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "2111256af5c9e0e0",
+        "type": "leaf",
+        "state": {
+          "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+          "state": {},
+          "icon": "longform",
+          "title": "Longform"
         }
       }
     ],
@@ -147,8 +157,11 @@
   },
   "active": "fa307c1ec87c4773",
   "lastOpenFiles": [
-    "content/Aprendizados/Teste 1.md",
     "templates/Nota.md",
+    "content/Aprendizados/Meu teste.md",
+    "content/Jecosfera/Index.md",
+    "content/Jecosfera",
+    "content/Aprendizados/Teste 1.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "Untitled.md",
@@ -172,7 +185,6 @@
     "2024-11-09.md",
     "().md",
     "content/Sobre mim.md",
-    "content/Aprendizados/Index.md",
     "content/Documentações",
     "content/Ensaios",
     "Teste remoto",

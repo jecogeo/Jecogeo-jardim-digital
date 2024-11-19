@@ -5,7 +5,7 @@ tags:
 draft: false
 date: 2024-10-31
 ---
-👽 Olá mundo. Jeco aqui falando para o eu do futuro e para quem mais copie essa transmissão. Este é meu jardim digital, onde planto e cultivo ideias. Algumas sérias, outras nem tanto.
+👽 Olá mundo. [[Sobre mim|Jeco aqui]] falando para o eu do futuro e para quem mais copie essa transmissão. Este é meu jardim digital, onde planto e cultivo ideias. Algumas sérias, outras nem tanto.
 
 Esse é meu canto pessoal na internet. Um espaço de anotações, aprendizados, registros e compartilhamento. Pesquisando, descobri que aprender em público não é só uma ideia, é um [método de aprendizado](https://www.swyx.io/learn-in-public) que tem ligação com o sistema de organização de notas chamado método [[Zettelkasten]] e interfaces com [[Jardins Digitais]]. Então, é isso que meu canto pessoal na internet é: **um jardim digital.**
 
@@ -21,28 +21,32 @@ Me interesso por muita coisa, como música, jogos, tecnologia, história, ciênc
 
 # Como se organiza tudo isso?
 
-A primeira coisa importante é que não existe muita sequência lógica entre textos. O foco aqui não é cronológico, mas lógico. Assim como na mente, as coisas aqui se organizam por meio de interconexões e não por tempo. É exatamente como na nossa cabeça: uma coisa vai ligando na outra e não importa exatamente quando cada coisa surgiu. O que importa é como pedaços de informação se conectam para formar conhecimentos ou *insights*.
+## Seções 
 
-## #semente
+-  [[Aprendizados/index|Aprendizados]] é a parte deste jardim para onde quase tudo vai. É lá que a maioria das notas vive. 
+- [[Ensaios/index|Ensaios]] é o lugar para onde vão ideias mais elaboradas. Faço isso para treinar a escrita e também para sintetizar um amontoado de conhecimento acumulado ou expressar algumas posições. Nada melhor para amadurecer ideias identificar lacunas ou pontos fracos, do que escrever o que a gente pensa. 
+- [[Documentações/index|Documentação]] é para onde vão alguns conjuntos de notas, ideias e informações que documentam algo que diz ou faço. Configurações, processos, códigos, soluções de problemas… é pra lá que vão para sempre consultar quando preciso.
+
+## Etiquetas e evolução das ideias
+
+A primeira coisa importante é que não existe muita sequência lógica entre textos. O foco aqui não é cronológico, mas lógico. Assim como na mente, as coisas aqui se organizam por meio de interconexões e não por tempo. É exatamente como na nossa cabeça: uma coisa vai ligando na outra e não importa muito exatamente *quando* cada coisa surgiu. O que importa é como pedaços de informação se *conectam* para formar conhecimentos ou *insights*.
+
+### #semente
 
 Uma semente é uma ideia. Algo novo que aparece, seja um aprendizado, uma nota sobre algo que li ou vi ou ouvi. Nem toda semente germina. Mas se bem armazenada, pode ser germinada a qualquer momento.
 
-## #muda
+### #muda
 
 Quando uma ideia se desenvolve e germina, pode virar uma muda. É um estágio de conhecimento mais desenvolvido. Tem raizes em mais fontes de informação, mais leitura e tem condições de se tornar algo mais profundo. Nem toda muda sobrevive. Ainda mais pra mim, que sou feito de muitas mini-obsessões transitórias. Mas isso não é ruim. Mudas sempre deixam boas marcas no desenvolvimento do ecossistema (na formação de quem eu sou, no caso).
 
-## #planta
+### #planta
 
 Uma ideia crescidinha vira uma planta com raizes profundas em mais fontes de informação, tronco robusto e, potencialmente, muitos galhos. Nem toda planta vive muito. E tá tudo bem. Tem várias ideias super desenvolvidas que não necessariamente se perpetuam ou viram algo concreto. O importante é que sua existência não seja esquecida.
 
-## #sempreverde 
+### #sempreverde 
 
 Uma planta sempre-verde é uma ideia que está sempre fresca. Sempre sendo atualizada, enriquecida e cuidada. Imagino que sejam mais raras. Veremos. 
 
-## #polen
+### #polen
 
-Pólen é uma nota, um texto, livro, impressão… algo que pode ter influência em várias outras ideias. São importantes porque podem fazer surgir outras ideias ou conhecimentos.
-
-# Para onde vai essa parada toda?
-
-Notas sobre tudo isso geralmente vão para [[Aprendizados/index|Aprendizados]]. É lá que a maioria das coisas vive. Eventualmente, se me sentir bravo suficiente, posso fazer um [[Ensaios/index|Ensaio]] sobre o tema. Faço isso para treinar a escrita e também para sintetizar um amontoado de conhecimento acumulado. Alguns conjuntos de notas, ideias e informações podem virar uma ou [[Documentações/index|Documentação]] para sempre consultar quando preciso.
+Pólen é uma nota, um texto, livro, impressão… algo que pode ter influência em várias outras ideias. São importantes porque podem fazer surgir ou enriquecer outras ideias ou conhecimentos.
