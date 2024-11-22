@@ -27,7 +27,7 @@ $$
  
 
 $$
-\pi \left( a_{t}, a_{t^{\prime}} \right) = \sum_{k=1}^{K} w_{k} \cdot \left[ p_{k} \left( f_{k} \left( a_{t} \right) - f_{k} \left( a_{t^{\prime}} \right) \right) \right]
+\pi \left( a_{t}, a_{t^{\prime}} \right) = \sum_{k=1}^{K} w_{k} \cdot \left[ p_{k} \left( f_{k} \left( a_{t} \right) - f_{k} \left( a_{t^{\prime}} \right) \right) \right], \quad AXA \to \left[ 0, 1 \right]
 $$
 
 
