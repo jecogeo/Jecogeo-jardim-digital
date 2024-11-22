@@ -26,6 +26,11 @@ $$
 $$
  
 
+$$
+\pi \left( a_{t}, a_{t^{\prime}} \right) = \sum_{k=1}^{K} w_{k} \cdot \left[ p_{k} \left( f_{k} \left( a_{t} \right) - f_{k} \left( a_{t^{\prime}} \right) \right) \right]
+$$
+
+
  $\pi \left( {a_{t} ,a_{{t^{\prime}}} } \right)$ indica a medida de preferência de $a_t$ sobre  $a_{t´}$, enquanto $w_{k}$ indica os pesos de importância do critério $k$: Quanto mais perto $\pi \left( {a_{t} ,a_{{t^{\prime}}} } \right)$ está de 1, maior a preferência.
 
 Fonte: Uzun, B., Almasri, A., Uzun Ozsahin, D. (2021). **Preference Ranking Organization Method for Enrichment Evaluation (Promethee)**. In: Uzun Ozsahin, D., Gökçekuş, H., Uzun, B., LaMoreaux, J. (eds) Application of Multi-Criteria Decision Analysis in Environmental and Civil Engineering. Professional Practice in Earth Sciences. Springer, Cham. https://doi.org/10.1007/978-3-030-64765-0_6
