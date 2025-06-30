@@ -8,7 +8,7 @@ created: 2025-06-30 16:34
 modified: 2025-06-30 16:34
 ---
 # Configurando 
-## Para acecssar um dispositivo via ssh usando par de chaves
+## Para acessar um dispositivo via ssh usando par de chaves
 
 1. Criar um par de chaves
 	
