@@ -4,5 +4,5 @@
   "showLineNumber": true,
   "newFileFolderPath": "content",
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "anexos"
+  "attachmentFolderPath": "content/anexos"
 }
