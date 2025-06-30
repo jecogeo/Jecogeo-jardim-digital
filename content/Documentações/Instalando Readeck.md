@@ -19,20 +19,22 @@ sudo chown readeck:readeck /var/lib/readeck
 # 2. Baixando 
 
 Verificar, antes, se essa é a última versão
-```shell
+```bash
 sudo wget -O /usr/local/bin/readeck https://codeberg.org/readeck/readeck/releases/download/0.18.2/readeck-0.18.2-linux-amd64
 ```
 
 # 3. mudando permissões e criando pastas
+```bash
 sudo chmod a+x /usr/local/bin/readeck
 sudo mkdir /etc/readeck
 sudo chown readeck:root /etc/readeck
 sudo chmod 0750 /etc/readeck
-
+```
 # 4. Criando serviço no systemd
 
-`sudo vim /etc/systemd/system/readeck.service`
-
+```bash
+sudo vim /etc/systemd/system/readeck.service
+```
 Conteúdo do arquivo:
 
 ```ini
@@ -84,7 +86,7 @@ WantedBy=multi-user.target
 ```
 
 ## 4.1 Iniciando serviço
-```shell
+```bash
 sudo systemctl daemon-reload
 sudo systemctl start readeck
 sudo systemctl enable readeck
@@ -92,7 +94,7 @@ sudo systemctl enable readeck
 
 # 5. criando arquivo de configuração do Readeck
 
-```shell
+```bash
 sudo vim /etc/readeck/config.toml
 ```
 
@@ -116,7 +118,7 @@ source = "sqlite3:data/db.sqlite3"
 
 # 6. Configurando proxy reverso
 
-```shell
+```bash
 sudo vim /etc/apache2/sites-available/exemplo.com.conf
 ```
 
@@ -153,7 +155,7 @@ Include /etc/letsencrypt/options-ssl-apache.conf
 ```
 
 Adicionando no Apache2 e reiniciando o serviço:
-```shell
+```bash
 sudo a2ensite exemplo.com
 sudo systemctl restart apache2
 ```
@@ -163,13 +165,9 @@ Depois disso, fui no meu administrador onde comprei o domínio e criei um regist
 
 # 8. Gerando certificado SSL
 
-```shell
+```bash
 sudo certbot --apache -d exemplo.com
 ```
-
-Saving debug log to /var/log/letsencrypt/letsencrypt.log
-Requesting a certificate for favs.jecogeo.cloud
-
 
  
 **Feito!! Funcionando!!**
