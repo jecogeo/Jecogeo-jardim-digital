@@ -1,7 +1,9 @@
 ---
 title: Configurando conexões remotas SSH
 draft: false
-tags: 
+tags:
+  - linux
+  - ssh
 created: 2025-06-30 16:34
 modified: 2025-06-30 16:34
 ---
