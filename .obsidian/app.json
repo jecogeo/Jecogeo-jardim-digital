@@ -1,7 +1,8 @@
 {
   "promptDelete": false,
-  "newFileLocation": "root",
+  "newFileLocation": "folder",
   "showLineNumber": true,
-  "newFileFolderPath": "",
-  "alwaysUpdateLinks": true
+  "newFileFolderPath": "content",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "anexos"
 }

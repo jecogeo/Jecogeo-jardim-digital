@@ -3,7 +3,7 @@ title: O que é Análise de Decisão Multicritério
 draft: false
 tags:
   - cienciadedados
-  - muda
+  - estatistica/decisaomulticriterio
 created: 2024-11-22 10:26
 modified: 2024-11-22 10:26
 ---

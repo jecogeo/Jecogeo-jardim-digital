@@ -2,7 +2,8 @@
 title: Mas por que tu não usa WhatsApp?
 draft: false
 tags:
-  - sempreverde
+  - privacidade
+  - capitalismodevigilância
 date: 2024-11-16
 ---
 

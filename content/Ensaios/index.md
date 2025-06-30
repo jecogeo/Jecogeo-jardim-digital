@@ -1,7 +1,6 @@
 ---
 title: Ensaios
-tags:
-  - sempreverde
+tags: []
 draft:
 ---
 Em construção 🚧 

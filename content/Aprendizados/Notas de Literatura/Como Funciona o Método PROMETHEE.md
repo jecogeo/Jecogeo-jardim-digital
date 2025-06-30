@@ -3,7 +3,7 @@ title: Como Funciona o Método PROMETHEE
 draft: false
 tags:
   - cienciadedados
-  - semente
+  - estatistica/decisaomulticriterio
 created: 2024-11-22 11:25
 modified: 2024-11-22 11:25
 ---
