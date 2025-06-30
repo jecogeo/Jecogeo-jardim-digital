@@ -1,7 +1,6 @@
 ---
 title: Aprendizados
 draft: false
-tags:
-  - sempreverde
+tags: []
 ---
 Em construção 🚧
