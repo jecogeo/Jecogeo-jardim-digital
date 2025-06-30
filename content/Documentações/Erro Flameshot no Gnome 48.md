@@ -28,7 +28,7 @@ Pelo que li, existe uma limitação do GNOME + Wayland: ferramentas que não sã
    sudo pacman -S flameshot xdg-desktop-portal xdg-desktop-portal-gnome
    ```
 
-O portal do GNOME (`xdg-desktop-portal-gnome`) é essencial para que o sistema gerencie corretamente as permissões ([flameshot.org][1]).
+O portal do GNOME (`xdg-desktop-portal-gnome`) é essencial para que o sistema gerencie corretamente as permissões. 
 
 2. **Criar um script "wrapper" para iniciar o Flameshot**
    Criar o arquivo `/usr/local/bin/flameshot-wl.sh` (como root) com este conteúdo:
@@ -44,7 +44,7 @@ O portal do GNOME (`xdg-desktop-portal-gnome`) é essencial para que o sistema g
    sudo chmod +x /usr/local/bin/flameshot-wl.sh
    ```
 
-   Isso força o Flameshot a iniciar corretamente no Wayland ([flameshot.org][2], [wiki.archlinux.org][3]).
+   Isso força o Flameshot a iniciar corretamente no Wayland.
 
 3. **Configurar um atalho no GNOME para usar esse script**
 
@@ -57,7 +57,7 @@ O portal do GNOME (`xdg-desktop-portal-gnome`) é essencial para que o sistema g
 
 ![[Pasted image 20250630162522.png]]
 
-Isso evita os erros de “Only the focused app…” ao iniciar diretamente do menu ([ttys3.dev][4]).
+Isso evita os erros de “Only the focused app…” ao iniciar diretamente do menu.
 
 ---
 
@@ -66,7 +66,7 @@ Isso evita os erros de “Only the focused app…” ao iniciar diretamente do m
 * O GNOME no Wayland **só permite captura de tela se o app pedir permissão via portal** e estiver em foco.
 * Usar `env QT_QPA_PLATFORM=wayland flameshot gui` com um script:
 	* Garante que o portal reconheça a janela ativa e mostre a caixa de diálogo.
-	* Evita iniciar de atalhos diretos ou menu, o que gera erro de acesso negado ([flameshot.org][1]).
+	* Evita iniciar de atalhos diretos ou menu, o que gera erro de acesso negado.
 
 ---
 
