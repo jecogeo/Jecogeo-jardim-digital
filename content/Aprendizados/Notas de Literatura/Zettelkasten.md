@@ -12,7 +12,8 @@ modified: 2025-06-30 11:03
 O **Zettelkasten** ("caixa de notas" em alemão) foi popularizado pelo sociólogo [Niklas Luhmann](https://en.wikipedia.org/wiki/Niklas_Luhmann) (1927–1998), que usou o método para gerenciar seu vasto conhecimento e produzir mais de 70 livros e 400 artigos. Originalmente, era um sistema físico de fichas de papel interconectadas por um sistema de códigos que permitia a Luhmann criar uma "segunda mente" para expandir suas ideias.
 
 
-![[zettels.png.png|Uma pequena parte do sistema de índice de cartões de Niklas Luhmann com fichas escritas à mão. ©imago images/teutopress. Fonte: https://www.deutschlandfunkkultur.de/niklas-luhmann-archiv-der-blick-in-den-zettelkasten-ist-100.html]]
+![[zettels.png]]
+Uma pequena parte do sistema de índice de cartões de Niklas Luhmann com fichas escritas à mão. ©imago images/teutopress. Fonte: https://www.deutschlandfunkkultur.de/niklas-luhmann-archiv-der-blick-in-den-zettelkasten-ist-100.html
 
 # Princípios
 O Zettelkasten é um sistema de **notas interligadas** baseado em três princípios:
