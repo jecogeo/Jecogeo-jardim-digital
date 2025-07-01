@@ -45,7 +45,7 @@ export default (() => {
           .filter((resource) => resource.loadTime === "beforeDOMReady")
           .map((res) => JSResourceToScriptElement(res, true))}
         
-        /* Fathom Lite Analytics */
+        
 	<script
   dangerouslySetInnerHTML={{
     __html: `
