@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Aprendizados/Sonho com jogo de tabuleiro- manejo de recursos na Amazônia.md",
+                "file": "content/Aprendizados/Notas de Literatura/Efeito Manada.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Sonho com jogo de tabuleiro- manejo de recursos na Amazônia"
+              "title": "Efeito Manada"
             }
           }
         ]
@@ -36,7 +46,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -157,7 +168,11 @@
   },
   "active": "fa307c1ec87c4773",
   "lastOpenFiles": [
+    "content/Aprendizados/Notas de Literatura/O que é Efeito de Rede?.md",
+    "content/Aprendizados/Notas de Literatura/Efeito Manada.md",
+    "content/Aprendizados/Notas Rápidas/Derrotismo e efeito de rede.md",
     "content/Ensaios/Mas por que tu não usa WhatsApp.md",
+    "content/Aprendizados/Notas Permanentes/Jardins Digitais.md",
     "content/Aprendizados/O que é capitalismo de vigilância.md",
     "content/index.md",
     "templates/Nota.md",
@@ -181,10 +196,6 @@
     "content/Aprendizados/index.md",
     "Aprendizados",
     "content/Documentações/index.md",
-    "2024-11-11.md",
-    "2024-11-09.md",
-    "().md",
-    "content/Sobre mim.md",
     "content/Documentações",
     "content/Ensaios",
     "Teste remoto",
