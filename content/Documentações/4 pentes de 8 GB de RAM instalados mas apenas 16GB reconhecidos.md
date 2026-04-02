@@ -48,7 +48,10 @@ Memory Device
 	Data Width: Unknown 
 	Size: No Module Installed 
 
-$free -h total used free shared buff/cache available Mem: 15Gi 3.3Gi 8.5Gi 80Mi 4.1Gi 12Gi Swap: 15Gi 3.9Gi 12Gi
+$free -h 
+	  total used free shared buff/cache available 
+Mem:  15Gi 3.3Gi 8.5Gi 80Mi  4.1Gi       12Gi 
+Swap: 15Gi 3.9Gi 12Gi
 
 $sudo lshw -short -class memory
 /0/a/0  memory  8GiB DIMM DDR4 Synchronous 2133 MHz (0.5 ns)
