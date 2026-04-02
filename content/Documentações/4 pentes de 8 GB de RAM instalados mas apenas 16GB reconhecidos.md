@@ -17,7 +17,7 @@ Então é possível que eu esteja trabalhando com apenas 16GB há tempos mas só
 # Diagnóstico
 Os resultados de diagnóstico foram:
 
-```ini
+```bash
 $sudo dmidecode -t memory | grep -A 5 "Memory Device" 
 
 Memory Device 
