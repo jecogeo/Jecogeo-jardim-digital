@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Aprendizados/Notas de Literatura/Efeito Manada.md",
+                "file": "content/Ensaios/De Sabbath a Behemoth - uma genealogia do metal extremo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Efeito Manada"
+              "title": "De Sabbath a Behemoth - uma genealogia do metal extremo"
             }
           }
         ]
@@ -47,10 +47,12 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
-          "title": "Files"
+          "title": "Explorador de arquivos"
         }
       },
       {
@@ -157,19 +159,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
       "templater-obsidian:Templater": false
     }
   },
   "active": "fa307c1ec87c4773",
   "lastOpenFiles": [
-    "content/Aprendizados/Notas de Literatura/O que é Efeito de Rede?.md",
     "content/Aprendizados/Notas de Literatura/Efeito Manada.md",
+    "content/Ensaios/De Sabbath a Behemoth - uma genealogia do metal extremo.md",
+    "content/Aprendizados/Notas de Literatura/O que é Efeito de Rede?.md",
     "content/Aprendizados/Notas Rápidas/Derrotismo e efeito de rede.md",
     "content/Ensaios/Mas por que tu não usa WhatsApp.md",
     "content/Aprendizados/Notas Permanentes/Jardins Digitais.md",
@@ -195,7 +199,6 @@
     "Aprendizados/index.md",
     "content/Aprendizados/index.md",
     "Aprendizados",
-    "content/Documentações/index.md",
     "content/Documentações",
     "content/Ensaios",
     "Teste remoto",
