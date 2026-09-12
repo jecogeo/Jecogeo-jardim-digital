@@ -118,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "templates/Nota.md",
+            "file": "content/Ensaios/De Sabbath a Behemoth - uma genealogia do metal extremo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "unlinkedCollapsed": true
           },
           "icon": "links-coming-in",
-          "title": "Backlinks"
+          "title": "Links inversos"
         }
       },
       {
