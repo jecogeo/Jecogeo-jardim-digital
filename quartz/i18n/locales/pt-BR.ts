@@ -29,8 +29,11 @@ export default {
       lightMode: "Tema claro",
       darkMode: "Tema escuro",
     },
+    readerMode: {
+      title: "Modo leitor",
+    },
     explorer: {
-      title: "Jecosfera",
+      title: "Explorador",
     },
     footer: {
       createdWith: "Criado com",
