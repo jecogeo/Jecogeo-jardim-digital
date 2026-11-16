@@ -10,18 +10,13 @@ const fathom: QuartzTransformerPluginInstance = {
     return {
       js: [
         {
-          src: "https://fathom.jecogeo.eu/tracker.js",
-          loadTime: "afterDOMReady",
-          contentType: "external",
-          spaPreserve: true,
-        },
-        {
           script: `
             window.fathom = window.fathom || function () {
               (window.fathom.q = window.fathom.q || []).push(arguments)
             }
 
             fathom("set", "siteId", "QCMTI")
+            fathom("set", "trackerUrl", "https://fathom.jecogeo.eu/collect")
 
             document.addEventListener("nav", () => {
               fathom("trackPageview")
@@ -29,6 +24,12 @@ const fathom: QuartzTransformerPluginInstance = {
           `,
           loadTime: "afterDOMReady",
           contentType: "inline",
+          spaPreserve: true,
+        },
+        {
+          src: "https://fathom.jecogeo.eu/tracker.js",
+          loadTime: "afterDOMReady",
+          contentType: "external",
           spaPreserve: true,
         },
       ],
